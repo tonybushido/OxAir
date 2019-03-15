@@ -1,7 +1,7 @@
 # OxAir
 This is the resposity for the OxAir community air quality action group. 
 
-OxAir is a demonstrator project for air quality & sensor technologies. It aims to combine the best of the sensor & air quality communities to help assess day-to-day human health exposure to air pollution. Using sensor we are looking for high spatio-temporal resolutions. The evidence generated will support more robust air pollution reduction strategies which are urgently needed to reduce air pollution in the 'shortest time possible', as the lawyers might say. We hope to deliver broader benefits too, including better, more local information on real world pollution for informed decision making by individuals, in policy & strategies. 
+OxAir is a demonstrator project for air quality & sensor technologies. It aims to combine the best of the sensor & air quality communities to help assess day-to-day human health exposure to air pollution. Using sensors we are looking for high spatio-temporal resolutions to go a bit beyond what is generally available atthe moment. The evidence generated will support more robust air pollution reduction strategies which are urgently needed to reduce air pollution in the 'shortest time possible', as the lawyers might say. We hope to deliver broader benefits too, including better, more local information on real world pollution for informed decision making by individuals, in policy & strategies. 
 
 ## Why OxAir? 
 The project partners all live & work in & around Oxford. Oxford also has a progressive, enlightened & environmentally conscious city, facing transport challenges. 
