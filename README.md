@@ -18,7 +18,7 @@ OxAir aims to respond to this challenge by demonstrating how sensors deployed on
 *	Engage with policy makers, the public & support science projects with schools & communities.
 
 ## Funding Status
-Not.
+In March 2019, OxAir was awarded grant funding by Oxford City Councilto support their work on local air quality management & explore co-benefits.
 
 A very big thank you to the Oxford University Sustainable Transport team form our initial seedcorn funding which got us started. 
 
